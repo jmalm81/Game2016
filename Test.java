@@ -6,8 +6,8 @@ public class Test{
 		// System.out.println("<<<<<<< Final Maze >>>>>>>");
 		// maze.printMaze();
 		
-		DynamicRooms dr = new DynamicRooms(5,5);
-		dr.printRooms();		
+		// DynamicRooms dr = new DynamicRooms(5,5);
+		// dr.printRooms();		
 		
 		// Player player = new Player();
 		// player.printPlayerStats();
