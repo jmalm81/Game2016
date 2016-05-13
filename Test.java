@@ -15,6 +15,8 @@ public class Test{
 		//Inventory inv = new Inventory();
 		// inv.pickUp();
 		// inv.listInventory();
+		
+		System.out.println("New output!");
 	}
 
 }
