@@ -24,7 +24,7 @@ public class Inventory{
 	
 	public void listInventory(){
 		for(Item i:inventory)
-		System.out.println(i.toString());
+		// System.out.println(i.toString());
 	}
 	public void listEquipped(){
 		System.out.println(equipped.get(InventorySlot.HEAD));
