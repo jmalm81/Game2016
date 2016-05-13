@@ -16,7 +16,7 @@ public class Test{
 		// inv.pickUp();
 		// inv.listInventory();
 		
-		System.out.println("New output!");
+		System.out.println("New output NOW!");
 	}
 
 }
